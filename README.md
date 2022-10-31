@@ -144,6 +144,8 @@ haven't already:
   ],
 ```
 
+**Be sure that you have jest or expect version 28 or higher installed as well.**
+
 ## Custom matchers
 
 `@testing-library/jest-dom` can work with any library or framework that returns
